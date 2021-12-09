@@ -124,12 +124,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b633a165f4861a2489b9b235f9ecaaa7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wayPoints:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  wayPoints: []
   arriveDistance: 0.6
   turningAngleOffset: 5
   isLoop: 1

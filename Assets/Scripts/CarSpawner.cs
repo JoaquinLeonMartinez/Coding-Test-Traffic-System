@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /*
- * Class in charge of trandomize the car prefab (The only difference is the color)
+ * Class in charge of randomize the car prefab (The only difference is the color)
  */
 public class CarSpawner : MonoBehaviour
 {
