@@ -1,3 +1,7 @@
+/*
+ * Author: Joaquín León Martínez
+ * Date: 10/12/2021
+ */
 using System;
 using System.Collections;
 using System.Collections.Generic;
